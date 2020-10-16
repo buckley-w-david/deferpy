@@ -9,8 +9,8 @@ test_requires = [
 
 setup(
     name='deferpy',
-    version='1.0.0',
-    author='David Buckley <david@davidbuckley.ca',
+    version='1.0.1',
+    author='David Buckley <david@davidbuckley.ca>',
     long_description=long_description,
     long_description_content_type='text/markdown',
     packages=find_packages(),
